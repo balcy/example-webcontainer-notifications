@@ -1,2 +1,2 @@
-# Github_UT
-A simple webapp for viewing Github on an UT phone.
+# webengine-notifications
+A webapp as an example for HTML5 notifications with webapp-container (Ubuntu touch)
