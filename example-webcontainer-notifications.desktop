@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Notification Test
+Comment= Github Ubports webapp
+Type=Application
+Icon=example-webcontainer-notifications.svg
+Exec=webapp-container --webappUrlPatterns=* https://www.bennish.net/web-notifications.html
+Terminal=false
+X-Ubuntu-Touch=true
+X-Ubuntu-Splash-Color=#262625

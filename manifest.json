@@ -1,0 +1,19 @@
+{
+    "description": "Github Ubports webapp",
+    "framework": "ubuntu-sdk-15.04.6",
+    "hooks": {
+        "example-webcontainer-notifications": {
+            "apparmor": "example-webcontainer-notifications.apparmor",
+            "desktop": "example-webcontainer-notifications.desktop"
+        },
+        "example-webcontainer-notifications-helper": {
+            "apparmor":"example-webcontainer-notifications-helper.apparmor",
+            "push-helper":"example-webcontainer-notifications-helper.json"
+        }
+    },
+    "maintainer": "Chris Clime <chris.clime@gmx.net>",
+    "name": "example-webcontainer-notifications.chrisclime",
+    "title": "Webengine Notifications Example",
+    "version": "0.1",
+    "architecture": "@CLICK_ARCH@"
+}
